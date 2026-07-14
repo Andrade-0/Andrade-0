@@ -1,14 +1,3 @@
-
-
-### Sobre mim
-
-- 🏆 **Não ganho pelo que desenvolvo, eu ganho pelos problemas que eu resolvo** 😉
-- ⚡ Alergia a "não é possível".
-
----
-
-### Core Skills
-
 <p align="center">
   <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
