@@ -2,7 +2,6 @@
 
 ### Sobre mim
 
-- 🛠️ **"Pau para toda obra"** — Front-end, Back-end, Mobile... se for para resolver, eu resolvo.
 - 🏆 **Não ganho pelo que desenvolvo, eu ganho pelos problemas que eu resolvo** 😉
 - ⚡ Alergia a "não é possível".
 
@@ -20,21 +19,15 @@
 
 ---
 
-### Conquistas Desbloqueadas
-
-🏅 Debugger Lendário &nbsp;|&nbsp; 🏅 Rei do Deploy Sexta à Noite &nbsp;|&nbsp; 🏅 Mestre do Stack Overflow
-
----
-
 ### As minhas estatísticas (porque ego também se mede em gráficos)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrade-0&show_icons=true&theme=radical" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USERNAME&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrade-0&theme=radical" />
 </p>
 
 ---
 
-<p align="center"><i>"Se é para resolver, eu resolvo. Ponto final." 😉🔥</i></p>
+<p align="center"><i>"Pau para toda obra." 😉🔥</i></p>
