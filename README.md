@@ -19,12 +19,4 @@
 
 ---
 
-### As minhas estatísticas (porque ego também se mede em gráficos)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Andrade-0&show_icons=true&theme=radical" />
-</p>
-
----
-
 <p align="center"><i>"Pau para toda obra." 😉🔥</i></p>
