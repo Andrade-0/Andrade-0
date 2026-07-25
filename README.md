@@ -14,5 +14,6 @@
   <img alt="Java" src="https://img.shields.io/badge/Java-111827?style=flat-square&logo=openjdk&logoColor=3FB950" />
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-111827?style=flat-square&logo=springboot&logoColor=3FB950" />
   <img alt="Php" src="https://img.shields.io/badge/Php-111827?style=flat-square&logo=php&logoColor=3FB950" />
+  <img alt="Php" src="https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=3FB950" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=3FB950" />
 </p>
