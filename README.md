@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 </p>
--->
 
 
 <p>
@@ -17,3 +16,61 @@
   <img alt="Php" src="https://img.shields.io/badge/Laravel-111827?style=flat-square&logo=laravel&logoColor=3FB950" />
   <img alt="Linux" src="https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=3FB950" />
 </p>
+
+-->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:3FB950,100:24243e&height=200&section=header&text=Morgado%20Andrade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%20&animation=fadeIn" />
+
+</div>
+
+---
+## 🔗 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/andrade-0" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://wa.me/244921102389" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+</p>
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=python,flask,django,fastapi,go,typescript,express,nestjs,java,spring" />
+</p>
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular" />
+</p>
+
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgresql" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,idea,vscode,postman,docker,arduino,jquery" />
+</p>
+
+### Other Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,php" />
+</p>
+
+---
+
+<div align="center">
+
+*"Pau para toda obra"*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
