@@ -18,9 +18,20 @@
 </p>
 
 -->
+
+<!--
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:3FB950,100:24243e&height=200&section=header&text=Morgado%20Andrade&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%20&animation=fadeIn" />
 </div>
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,angular,cpp,php,mysql,sqlite,postgresql,git,github,linux,idea,vscode,postman,docker,arduino,jquery,laravel,js,npm,next,py,redis,windows,sass,mongo" />
+</p>
+-->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:3FB950,100:24243e&height=200&section=header&text=Software%Dev&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%%20%20&animation=fadeIn" />
+</div>
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,idea" />
 </p>
