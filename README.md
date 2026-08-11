@@ -29,7 +29,7 @@
 -->
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:3FB950,100:24243e&height=200&section=header&text=Software%Dev&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%%20%20&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:3FB950,100:24243e&height=200&section=header&text=Jack%20of%20all%20trades.&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=%20&animation=fadeIn" />
 </div>
 
 <p>
